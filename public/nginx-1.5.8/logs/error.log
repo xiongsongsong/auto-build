@@ -1,0 +1,25 @@
+2013/12/18 13:04:48 [warn] 5136#3856: "user" is not supported, ignored in D:\nginx-1.5.8/conf/nginx.conf:2
+2013/12/18 13:04:48 [emerg] 5136#3856: directive "server_name" is not terminated by ";" in D:\nginx-1.5.8/conf/nginx.conf:43
+2013/12/18 13:04:49 [warn] 4664#1984: "user" is not supported, ignored in D:\nginx-1.5.8/conf/nginx.conf:2
+2013/12/18 13:04:49 [emerg] 4664#1984: directive "server_name" is not terminated by ";" in D:\nginx-1.5.8/conf/nginx.conf:43
+2013/12/18 13:04:50 [warn] 6004#5144: "user" is not supported, ignored in D:\nginx-1.5.8/conf/nginx.conf:2
+2013/12/18 13:04:50 [emerg] 6004#5144: directive "server_name" is not terminated by ";" in D:\nginx-1.5.8/conf/nginx.conf:43
+2013/12/18 13:04:50 [warn] 4780#3476: "user" is not supported, ignored in D:\nginx-1.5.8/conf/nginx.conf:2
+2013/12/18 13:04:50 [emerg] 4780#3476: directive "server_name" is not terminated by ";" in D:\nginx-1.5.8/conf/nginx.conf:43
+2013/12/18 13:04:56 [warn] 5532#4068: "user" is not supported, ignored in D:\nginx-1.5.8/conf/nginx.conf:2
+2013/12/18 13:04:56 [emerg] 5532#4068: directive "server_name" is not terminated by ";" in D:\nginx-1.5.8/conf/nginx.conf:43
+2013/12/18 13:05:09 [warn] 5376#4344: "user" is not supported, ignored in D:\nginx-1.5.8/conf/nginx.conf:2
+2013/12/18 13:05:09 [emerg] 5376#4344: directive "server_name" is not terminated by ";" in D:\nginx-1.5.8/conf/nginx.conf:43
+2013/12/18 13:05:16 [emerg] 4976#1196: directive "server_name" is not terminated by ";" in D:\nginx-1.5.8/conf/nginx.conf:42
+2013/12/18 13:05:35 [emerg] 2484#5904: directive "server_name" is not terminated by ";" in D:\nginx-1.5.8/conf/nginx.conf:42
+2013/12/18 13:05:48 [emerg] 1984#5168: directive "server_name" is not terminated by ";" in D:\nginx-1.5.8/conf/nginx.conf:42
+2013/12/18 13:05:59 [emerg] 4960#3836: directive "server_name" is not terminated by ";" in D:\nginx-1.5.8/conf/nginx.conf:42
+2013/12/18 13:06:35 [emerg] 5872#5616: directive "server_name" is not terminated by ";" in D:\nginx-1.5.8/conf/nginx.conf:42
+2013/12/18 13:17:11 [error] 5144#2368: *12 CreateFile() "D:\nginx-1.5.8/html/adm.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: test.com, request: "GET /adm.html?adm=D69056DAD6C3DF47D144841295B988F2&t=1387343831489 HTTP/1.1", host: "bd.adm.ijinshan.com", referrer: "http://esnippet.pos.baidu.com/bfp/snippetcacher.php?qn=ca7a06f756b77269"
+2013/12/18 13:22:52 [error] 4620#5896: *1 CreateFile() "D:/autobuild/public/s/abc" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: a.cn, request: "GET /s/abc HTTP/1.1", host: "a.cn"
+2013/12/18 13:24:11 [error] 5500#3500: *1 "D:/autobuild/public/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: a.cn, request: "GET / HTTP/1.1", host: "a.cn"
+2013/12/18 13:24:46 [error] 5456#5736: *1 "D:/autobuild/public/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: a.cn, request: "GET / HTTP/1.1", host: "a.cn"
+2013/12/18 13:31:24 [error] 5504#6088: *1 "D:/autobuild/public/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: a.cn, request: "GET / HTTP/1.1", host: "a.cn"
+2013/12/18 13:33:05 [error] 960#4360: *1 CreateFile() "D:/autobuild/public/13332.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: a.cn, request: "GET /13332.html HTTP/1.1", host: "a.cn"
+2013/12/18 13:33:10 [error] 960#4360: *1 CreateFile() "D:/autobuild/public/13332.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: a.cn, request: "GET //13332.html HTTP/1.1", host: "a.cn"
+2013/12/18 13:33:20 [error] 960#4360: *1 CreateFile() "D:/autobuild/public/456789.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: a.cn, request: "GET //456789.html HTTP/1.1", host: "a.cn"
