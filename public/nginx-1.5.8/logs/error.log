@@ -23,3 +23,4 @@
 2013/12/18 13:33:05 [error] 960#4360: *1 CreateFile() "D:/autobuild/public/13332.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: a.cn, request: "GET /13332.html HTTP/1.1", host: "a.cn"
 2013/12/18 13:33:10 [error] 960#4360: *1 CreateFile() "D:/autobuild/public/13332.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: a.cn, request: "GET //13332.html HTTP/1.1", host: "a.cn"
 2013/12/18 13:33:20 [error] 960#4360: *1 CreateFile() "D:/autobuild/public/456789.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: a.cn, request: "GET //456789.html HTTP/1.1", host: "a.cn"
+2013/12/18 13:53:53 [error] 3472#5480: *1 CreateFile() "D:/auto-build/public/nginx-1.5.8/html/index2.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: a.cn, request: "GET /nginx-1.5.8/html/index2.html HTTP/1.1", host: "a.cn"
